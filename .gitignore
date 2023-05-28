@@ -1,3 +1,7 @@
+#Project related
+apache-tomcat*
+geoserver*
+
 # Logs
 logs
 *.log
